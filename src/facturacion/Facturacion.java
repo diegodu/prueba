@@ -11,7 +11,7 @@ package facturacion;
 public class Facturacion {
 
     /**
-     * @param args the command line argument
+     * @param args the command line argumentnkj
      */
    
     public static void main(String[] args) {
